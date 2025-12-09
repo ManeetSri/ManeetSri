@@ -1,41 +1,73 @@
 <!-- Header -->
 <h1 align="center">🚀 Maneet Srivastav</h1>
-<h3 align="center">iOS Engineer • Swift & SwiftUI • Mobile App Builder</h3>
+<h3 align="center">iOS Engineer • SwiftUI Specialist • Mobile App Developer</h3>
 
 <p align="center">
-  <a href="https://maneet-srivastav.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=Safari&logoColor=white" /></a>
-  <a href="https://medium.com/@maneetsrivastav"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/maneet-srivastav-1499a1196"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://maneet-srivastav.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=Safari&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@maneetsrivastav">
+    <img src="https://img.shields.io/badge/✍️ Medium-000?style=for-the-badge&logo=Medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maneet-srivastav-1499a1196">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## ⚡ About  
-iOS Engineer building **fast, scalable & clean** mobile apps using Swift + SwiftUI.  
-I focus on architecture, animation, performance, and developer experience.
-
-🔗 For full details → check my **Portfolio**.
+Building **clean, scalable, real-world iOS apps** using Swift + SwiftUI.  
+Love crafting smooth UI, strong architecture, performance-focused flows & writing about dev experience.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Combine-303030?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-6E40C9?style=flat" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Fastlane-00F2A9?style=flat&logo=fastlane&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-000?style=flat&logo=postman&logoColor=white" />
+# 🛠️ Tech Arsenal  
+
+## 🧩 **Core iOS Stack**
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+## 🧱 **Architecture**
+<p>
+  <img src="https://img.shields.io/badge/MVVM-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-007ACC?style=for-the-badge" />
+</p>
+
+## 🔧 **Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-00F2A9?style=for-the-badge&logo=fastlane&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestFlight-0084FF?style=for-the-badge&logo=appstore&logoColor=white" />
+</p>
+
+## 📡 **Backend / APIs**
+<p>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+## 🎨 **UI/UX & Design**
+<p>
+  <img src="https://img.shields.io/badge/Animations-FD297B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prototyping-FF5E5B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modular_UI-0A84FF?style=for-the-badge" />
 </p>
 
 ---
 
-## 📝 Articles  
-<p align="left">
-  <a href="https://medium.com/@maneetsrivastav"><img src="https://img.shields.io/badge/Read on Medium-000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+# ✍️ Latest Articles  
+<p>
+  <a href="https://medium.com/@maneetsrivastav">
+    <img src="https://img.shields.io/badge/Read%20My%20Posts-000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 - 🚀 *SweetPad: The VS Code addon iOS Devs love*  
@@ -44,26 +76,26 @@ I focus on architecture, animation, performance, and developer experience.
 
 ---
 
-## 📊 GitHub Insights
+# 📊 GitHub Analytics  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManeetSri&show_icons=true&theme=radical&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeetSri&layout=compact&theme=radical&hide_border=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=ManeetSri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ManeetSri&label=Profile+Views&color=blueviolet&style=flat-square" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeetSri&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ManeetSri&label=Profile+Views&color=ff69b4&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🎮 Fun Touch  
+# 🎮 Fun Touch  
 ```swift
 while true {
-    code()
-    learn()
+    buildApps()
+    breakThings()
+    fixBugs()
     repeat()
 }
-<p align="center">✨ Keep exploring. Keep building. Keep shipping.</p> ```
