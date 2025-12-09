@@ -48,9 +48,9 @@ I write about mobile app development and architecture on Medium. Here are some r
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)  
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManeetSri&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeetSri&layout=compact&theme=default)  
+![](https://komarev.com/ghpvc/?username=ManeetSri)
 
 ---
 
