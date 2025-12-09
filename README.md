@@ -1,62 +1,90 @@
-# Hi there 👋 I’m Maneet Srivastav  
-**Mobile Application Engineer** | Passionate about building smooth, data-driven, user-focused iOS & mobile applications
+<!-- Banner -->
+<h1 align="center">👋 Hey, I'm <span style="color:#4F46E5">Maneet Srivastav</span></h1>
+<h3 align="center">iOS Engineer • Mobile App Specialist • Tech Writer</h3>
 
-[🌐 Portfolio](https://maneet-srivastav.netlify.app) | [✍️ Medium](https://medium.com/@maneetsrivastav)
-
----
-
-## 🧰 What I Do  
-- Crafting full-stack mobile applications (iOS / Swift / SwiftUI) that solve real-world problems.  
-- Building ride-booking, live tracking, and e-commerce management applications (drawing on my domain knowledge).  
-- Writing about development best practices, system architecture, and mobile UX on Medium.  
-- Constantly exploring new technologies, tools and frameworks to push my apps to the next level.
+<p align="center">
+  <a href="https://maneet-srivastav.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://medium.com/@maneetsrivastav"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maneet-srivastav-1499a1196"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools  
-| Category            | Technologies & Tools                                   |
-|---------------------|------------------------------------------------------|
-| Languages           | Swift, Objective-C, (some experience with Kotlin/Flutter if needed) |
-| iOS / Mobile        | SwiftUI, UIKit, Combine, MVVM, Dependency Injection |
-| Backend / APIs      | RESTful services, JSON, Core Data, Realm             |
-| DevOps / Tools      | Git/GitHub, CI/CD, Fastlane, TestFlight, Xcode      |
-| Other Interests     | UI/UX design thinking, performance optimisation      |
+## 🚀 About Me  
+I'm an **iOS Engineer** passionate about building **smooth, scalable & high-performance mobile apps**.  
+I specialize in **Swift, SwiftUI, Combine, MVVM**, and create apps used by **thousands of real customers**, especially in domains like:
+
+- 🚕 Ride booking & live location tracking  
+- 🛒 E-commerce apps with real-time data  
+- ⚙️ Admin & management dashboards  
+- 📦 High-performance, API-driven mobile systems  
+- 🧱 Reusable iOS components & modular architecture  
+
+I also love writing technical articles that help developers build better apps.
 
 ---
 
-## 🚀 Selected Projects  
-*(Feel free to list a few key projects with links, e.g.:)*  
-- **Ride-booking & Live Tracking App** – A mobile app that allows users to book rides and see live tracking of vehicles.  
-- **E-commerce / Management Dashboard** – Full mobile frontend + backend integration with management features.  
-- **iOS Open Source Library / Extension** – Published tools or libraries to the community (you could link your Medium writeup here).
+## 🛠️ Tech Stack  
+
+### **📱 iOS & Mobile**
+`Swift` • `SwiftUI` • `UIKit` • `Combine` • `MVVM` • `Xcode` • `CoreData` • `Push Notifications`
+
+### **🔧 Tools & Infra**
+`Git` • `CI/CD` • `Fastlane` • `Firebase` • `REST APIs` • `Postman` • `TestFlight`
+
+### **🎨 Design & Architecture**
+`Clean Architecture` • `Dependency Injection` • `Reusable UI Components`  
+`UX Thinking` • `State Management`
 
 ---
 
-## ✍️ On My Blog  
-I write about mobile app development and architecture on Medium. Here are some recent posts:  
-- *“SweetPad: The VS Code Extension That’s Blowing Up iOS Development — And How To Use It Today”* (Dec 1) :contentReference[oaicite:0]{index=0}  
-- *“My SwiftUI ViewModel Initialized 6 Times — and the Fix Was One Word”* (Nov 7) :contentReference[oaicite:1]{index=1}  
-- *“Building a Scalable MVVM Architecture in iOS — with Dependency Injection and Clean OOP…”* (Oct 28) :contentReference[oaicite:2]{index=2}  
+## ✨ Featured Work  
+💡 *(You can convert these into bullet points that link to repos later)*
+
+- 🚖 **Ride Booking + Live Tracking App**  
+  Complete iOS frontend with real-time location updates, driver tracking, socket integration & trip flows.
+
+- 🛒 **E-commerce Mobile App**  
+  Product listing, cart system, order management, search, filtering & secure checkout.
+
+- 📊 **Operational Dashboard App**  
+  Multi-role mobile interface for managers, live metrics, logs, analytics & approvals.
 
 ---
 
-## 📫 Let’s Connect  
-- Portfolio → [https://maneet-srivastav.netlify.app](https://maneet-srivastav.netlify.app)  
-- Medium → [https://medium.com/@maneetsrivastav](https://medium.com/@maneetsrivastav)  
-- GitHub email (or other contact method) ← *you can add your preferred email/LinkedIn here*
+## 📝 Latest Medium Articles  
+
+### ✍️ *I write about iOS, SwiftUI, and Developer Productivity*
+- **SweetPad: The VS Code Extension That’s Changing iOS Development**  
+- **My SwiftUI ViewModel Was Re-initializing 6 Times — The Fix Was One Word**  
+- **Building Scalable MVVM Architecture with Clean OOP & DI**
+
+📚 Read them here → **https://medium.com/@maneetsrivastav**
+
+---
+
+## 📫 Connect With Me  
+
+<p>
+  <a href="https://maneet-srivastav.netlify.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/maneet-srivastav-1499a1196">💼 LinkedIn</a> •
+  <a href="https://medium.com/@maneetsrivastav">✍️ Medium</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManeetSri&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeetSri&layout=compact&theme=default)  
-![](https://komarev.com/ghpvc/?username=ManeetSri)
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ManeetSri&show_icons=true&theme=tokyonight&hide_border=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeetSri&layout=compact&theme=tokyonight&hide_border=true)  
+<img src="https://komarev.com/ghpvc/?username=ManeetSri&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🎯 Fun Fact  
-When I’m not coding, you’ll find me exploring UI/UX trends, debugging intricate problems, or sharing what I learn with the dev community.
+I love turning complex app flows into *simple user experiences* — and writing clean, reusable code that feels good to maintain.
 
----
-
-Thanks for stopping by — let’s build something great! 🚀
